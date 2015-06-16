@@ -1,5 +1,5 @@
 ##Description  
-LearnPress Export/Import bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.  
+**LearnPress Import/Export** bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.  
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
@@ -33,6 +33,6 @@ LearnPress Export/Import bring you feature to export course, lesson, quiz, quest
 **Can I create an add-on for LearnPress like *LearnPress Import Export* by myself?**  
 Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki" target>LearnPress github repo.</a>  
 
-== Other note ==  
+##Other note  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
 <a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress github repo.</a>  
