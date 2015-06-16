@@ -1,5 +1,17 @@
-##Description  
-LearnPress Export/Import bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.  
+===  LearnPress Export Import - WordPress extension for LearnPress ===  
+Contributors: thimpress, tunnhn  
+Donate link:  
+Tags: lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions, training, guru, sell courses  
+Requires at least: 3.8  
+Tested up to: 4.2.2  
+Stable tag: trunk  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
+
+LearnPress Export/Import bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.
+
+== Description ==  
+LearnPress Export/Import bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
@@ -17,21 +29,33 @@ LearnPress Export/Import bring you feature to export course, lesson, quiz, quest
 - <a href="http://thimpress.com/shop/stripe-add-on-for-learnpress/"  target="_blank">Stripe Payment method for LearnPress</a> - Stripe payment method for LearnPress WordPress LMS Plugin.  
 - <a href="http://thimpress.com/shop/woocommerce-add-on-for-learnpress/"  target="_blank">WooCommerce add-on for LearnPress</a> - using WooCommerce as payment gateway for LearnPrss WordPress LMS Plugin.  
 
-##Installation
+== Installation ==  
 
 **From your WordPress dashboard**  
 1. Visit 'Plugin > Add new'.  
-2. Search for *LearnPress Import Export*.  
-3. Activate *LearnPress Import Export* from your Plugins page.  
+2. Search for 'LearnPress Export Import'.  
+3. Activate LearnPress from your Plugins page.  
 
 **From WordPress.org**  
-1. Search, select and download *LearnPress Import Export*.  
+1. Search, select and download LearnPress Export Import.  
 2. Activate the plugin through the 'Plugins' menu in WordPress Dashboard.  
 
-##Frequently Asked Questions  
+== Frequently Asked Questions ==  
 
-**Can I create an add-on for LearnPress like *LearnPress Import Export* by myself?**  
-Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki" target>LearnPress github repo.</a>  
+= Can I create an add-on for LearnPress like LearnPress bbPress by myself? =  
+Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki">LearnPress github repo.</a>
+
+== Screenshots ==  
+
+1. LearnPress Export Import screenshot.  
+
+== Changelog ==
+
+= 0.9.0 =  
+The first beta release.  
+
+== Upgrade Notice ==  
+Later :)
 
 == Other note ==  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
