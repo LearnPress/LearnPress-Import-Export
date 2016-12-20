@@ -3,6 +3,8 @@
 This line is added in hotfix branch
 This is line #2
 
+Added new featured 1
+
 **LearnPress Import/Export** bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.  
 
 **Other free add-ons for LearnPress are available in WordPress:**  
@@ -28,7 +30,7 @@ This is line #2
 2. Search for *LearnPress Import Export*.  
 3. Activate *LearnPress Import Export* from your Plugins page.  
 
-**From WordPress.org**  
+**From WordPress.org**
 1. Search, select and download *LearnPress Import Export*.  
 2. Activate the plugin through the 'Plugins' menu in WordPress Dashboard.  
 
