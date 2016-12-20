@@ -4,6 +4,7 @@ This line is added in hotfix branch
 This is line #2
 
 Added new featured 1
+Released feature 1
 
 **LearnPress Import/Export** bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.  
 
