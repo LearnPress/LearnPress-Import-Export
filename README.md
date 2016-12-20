@@ -1,20 +1,8 @@
 ##Description
 
-This line is added in hotfix branch
-This is line #2
+**LearnPress Import/Export** bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.
 
-Added new featured 1
-Released feature 1
-
-XXXXXXXXXXXXXXXXXXX
-
-YYYYYYYYYYYYYYYYYYY
-
-ZZZZZZZZZZZZZZZ
-
-**LearnPress Import/Export** bring you feature to export course, lesson, quiz, question from a LearnPress site to back up or bring to another LearnPress site.  
-
-**Other free add-ons for LearnPress are available in WordPress:**  
+**Other free add-ons for LearnPress are available in WordPress:**
 
 - <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">LearnPress Wishlist</a> - add courses to a wishlist for students.  
 - <a href="https://wordpress.org/plugins/learnpress-course-review/" target="_blank">LearnPress Course Review</a> - review course for enrolled students.  
